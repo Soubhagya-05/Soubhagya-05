@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=SOUBHAGYA+BISWAL;You+can+beat+me%2C+but+you+can’t+compete" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C2FF&height=220&section=header&text=SOUBHAGYA%20BISWAL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=You%20can%20beat%20me,%20but%20you%20can’t%20compete&descAlignY=55&descAlign=50"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=520&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
