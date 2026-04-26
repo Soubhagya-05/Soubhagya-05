@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:9333EA&height=220&section=header&text=SOUBHAGYA%20BISWAL&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=You%20can%20beat%20me,%20but%20you%20can’t%20compete"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=SOUBHAGYA%20BISWAL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=You%20can%20beat%20me,%20but%20you%20can’t%20compete&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
