@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOUBHAGYA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;DSA+%7C+Competitive+Programming;Backend+Developer+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
 </p>
 
 <p align="center">
@@ -47,26 +47,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 🚧 Featured Projects
-
-### 🔹 Project 1
-- Built using **Node.js, Express, MongoDB**
-- Implemented authentication & REST APIs
-- Followed MVC architecture
-
-### 🔹 Project 2
-- Solved problems using **C++ (DSA)**
-- Focused on optimization and efficiency
-
----
-
-## 📚 Currently Learning
-- System Design Basics  
-- Advanced Backend Development  
-- DSA (Consistency focus)
 
 ---
 
