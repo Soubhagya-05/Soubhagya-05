@@ -1,4 +1,4 @@
-<h1 align="center">Hi, THE SOUBHAGYA BISWAL</h1>
+<h1 align="center">THE SOUBHAGYA BISWAL</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=520&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
