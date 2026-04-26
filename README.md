@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm SOUBHAGYA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=520&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
 </p>
 
 <p align="center">
@@ -37,20 +37,28 @@
 
 ---
 
-## GitHub & LeetCode Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/SOUBHAGYA_05?theme=dark&font=Baloo" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soubhagya-05&theme=tokyo-night" />
 </p>
 
 ---
 
-## Connect With Me
+## Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://github.com/Soubhagya-05/SOUBHAGYA-BISWAL/blob/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/Soubhagya-05">
@@ -63,4 +71,4 @@
 
 ---
 
-<p align="center">Consistent effort. Real growth.</p>
+<p align="center">Building. Solving. Improving.</p>
