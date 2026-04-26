@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SOUBHAGYA</h1>
+<h1 align="center">Hi, I'm SOUBHAGYA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
-- Strong foundation in **Data Structures & Algorithms (C++)**
-- Backend development using **Node.js & Express**
-- Building scalable **REST APIs**
-- Working with **MongoDB**
-- Practicing **Competitive Programming** on LeetCode
+## About Me
+- Strong foundation in Data Structures & Algorithms (C++)
+- Backend development using Node.js & Express
+- Building scalable REST APIs
+- Working with MongoDB
+- Practicing Competitive Programming on LeetCode
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,nodejs,express,mongodb,git,github" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Competitive Programming
+## Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/SOUBHAGYA_05/">
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&theme=tokyonight" height="160"/>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/Soubhagya-05">
@@ -63,4 +63,4 @@
 
 ---
 
-<p align="center">⚡ Building skills. Solving problems. Growing every day.</p>
+<p align="center">Consistent effort. Real growth.</p>
