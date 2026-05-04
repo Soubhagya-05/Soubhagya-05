@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=SOUBHAGYA%20BISWAL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=You%20can%20beat%20me,%20but%20you%20can’t%20compete&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=SOUBHAGYA%20BISWAL&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=If%20I%20have%20the%20capabilities,%20I%20don’t%20hesitate&descAlignY=55&descAlign=50"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=520&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
 </p>
