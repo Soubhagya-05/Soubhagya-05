@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=0E75B6&center=true&vCenter=true&width=520&lines=Segfault+Slayer;DSA+%7C+Competitive+Programming;Backend+Development+%7C+Node.js" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soubhagya-05&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
