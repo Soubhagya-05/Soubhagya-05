@@ -85,4 +85,4 @@
 
 ---
 
-<p align="center">Building. Solving. Improving.</p>
+
