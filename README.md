@@ -9,7 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=Soubhagya-05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus"/>
+</p>
 
 ## About Me
 - Strong foundation in Data Structures & Algorithms (C++)
@@ -54,10 +58,9 @@
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Soubhagya-05&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=5" />
 </p>
+
 
 ---
 
