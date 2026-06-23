@@ -55,7 +55,7 @@
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soubhagya-05&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhagya-05&layout=compact&theme=tokyonight" />
 </p>
 
 
