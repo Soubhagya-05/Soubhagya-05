@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus"/>
 </p>
 
+## Philips
+[![Philips GitHub](https://github.com/philips.png?size=200)](https://github.com/philips)
+
 ## About Me
 - Strong foundation in Data Structures & Algorithms (C++)
 - Backend development using Node.js & Express
