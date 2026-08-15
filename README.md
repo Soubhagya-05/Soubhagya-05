@@ -12,8 +12,14 @@
   <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus"/>
 </p>
 
-## Philips
-[![Philips GitHub](https://github.com/philips.png?size=200)](https://github.com/philips)
+## Open Source
+
+<a href="https://github.com/philips-software">
+  <img src="https://github.com/philips-software.png?size=200" width="100" alt="Philips Software">
+</a>
+
+**Philips Software**  
+Philips Open Source Software
 
 ## About Me
 - Strong foundation in Data Structures & Algorithms (C++)
