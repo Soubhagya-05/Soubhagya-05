@@ -6,11 +6,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge&logo=cplusplus"/>
-</p>
 
 ## Open Source
 
