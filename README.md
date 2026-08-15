@@ -16,12 +16,7 @@
 **Philips Software**  
 Philips Open Source Software
 
-## About Me
-- Strong foundation in Data Structures & Algorithms (C++)
-- Backend development using Node.js & Express
-- Building scalable REST APIs
-- Working with MongoDB
-- Practicing Competitive Programming on LeetCode
+
 
 ---
 
