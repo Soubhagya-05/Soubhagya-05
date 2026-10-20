@@ -9,12 +9,7 @@
 
 
 
-<a href="https://github.com/philips-software">
-  <img src="https://github.com/philips-software.png?size=200" width="100" alt="Philips Software">
-</a>
 
-**Philips Software**  
-Philips Open Source Software
 
 
 
